@@ -1,0 +1,35 @@
+node-bcrypt-pbkdf (1.0.2-2) unstable; urgency=medium
+
+  * Use secure copyright file specification URI.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.4.1, no changes needed.
+  * Update standards version to 4.5.0, no changes needed.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sat, 28 Aug 2021 22:26:00 +0100
+
+node-bcrypt-pbkdf (1.0.2-1) unstable; urgency=medium
+
+  * Team upload
+
+  [ Pirate Praveen ]
+  * add homepage
+  * update copyright
+
+  [ Ambady Anand S ]
+  * New upstream version 1.0.2
+  * Bump Standards-Version to 4.4.0
+  * Bump debhelper compatibility level to 12
+  * Use salsa.debian.org in Vcs-* fields
+  * Change section to javascript
+  * Switch to pkg-js-tools auto install
+  * Remove tests
+  * Add node-tweetnacl as build dependency
+
+ -- Ambady Anand S <ambadyanands@disroot.org>  Mon, 30 Sep 2019 18:32:47 +0000
+
+node-bcrypt-pbkdf (1.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #862033)
+
+ -- Pirate Praveen <praveen@debian.org>  Sun, 07 May 2017 21:27:57 +0530
